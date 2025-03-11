@@ -23,14 +23,14 @@ This project classifies BBC News articles into five categories using machine lea
 
 ### Skills Highlighted
 
-Text Preprocessing
-Feature Extraction (BoW, N-grams, TF-IDF)
-Model Selection and Evaluation
-Machine Learning Algorithms (SVC, AdaBoost, Logistic Regression)
-Neural Networks (CNN)
-Dimensionality Reduction (PCA)
-Data Augmentation (SMOTE)
-Model Training and Tuning
+- Text Preprocessing
+- Feature Extraction (BoW, N-grams, TF-IDF)
+- Model Selection and Evaluation
+- Machine Learning Algorithms (SVC, AdaBoost, Logistic Regression)
+- Neural Networks (CNN)
+- Dimensionality Reduction (PCA)
+- Data Augmentation (SMOTE)
+- Model Training and Tuning
 
 ### The process
 
